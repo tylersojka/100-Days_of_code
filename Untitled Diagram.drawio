@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-11-12T20:28:04.801Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.183 Safari/537.36" etag="inKVD4-Z9Ltzpf2cI419" version="13.9.7" type="github">
+<mxfile host="app.diagrams.net" modified="2020-11-12T20:37:40.260Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.183 Safari/537.36" etag="y2l4tiyOv9RkUMU96QuS" version="13.9.7" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="1756" dy="2290" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1996" dy="2290" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -26,16 +26,16 @@
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-7" value="You enter the cave and notice a patch of delicious strawberries. if you don&#39;t eat soon you will surely die. What do you do? Type &#39;Eat&#39; to eat some strawberries or &#39;Continue&#39; to search for something else." style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="610" y="110" width="140" height="140" as="geometry" />
         </mxCell>
-        <mxCell id="wsGwZlvwTopMuStwnYJX-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="wsGwZlvwTopMuStwnYJX-0" target="wsGwZlvwTopMuStwnYJX-18">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="wsGwZlvwTopMuStwnYJX-32" value="North" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="wsGwZlvwTopMuStwnYJX-31">
-          <mxGeometry x="0.2327" relative="1" as="geometry">
-            <mxPoint x="1" as="offset" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="wsGwZlvwTopMuStwnYJX-34" value="south" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="wsGwZlvwTopMuStwnYJX-0" target="wsGwZlvwTopMuStwnYJX-25">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="wsGwZlvwTopMuStwnYJX-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="wsGwZlvwTopMuStwnYJX-0" target="wsGwZlvwTopMuStwnYJX-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="wsGwZlvwTopMuStwnYJX-43" value="north" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="wsGwZlvwTopMuStwnYJX-42">
+          <mxGeometry x="-0.0435" relative="1" as="geometry">
+            <mxPoint y="1" as="offset" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="wsGwZlvwTopMuStwnYJX-0" value="You continue walking, in no particular direction until you come across a raging river. the river is too deep to cross. What do you do? Type &#39;South&#39; to follow the river South, or &#39;North&#39; to follow the river North" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="60" y="127.5" width="170" height="115" as="geometry" />
@@ -64,24 +64,17 @@
             <mxPoint x="-100" y="70" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="wsGwZlvwTopMuStwnYJX-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="wsGwZlvwTopMuStwnYJX-18">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-280" y="185" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="wsGwZlvwTopMuStwnYJX-23" value="Ignore" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="wsGwZlvwTopMuStwnYJX-21">
-          <mxGeometry x="-0.0889" y="-1" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
+        <mxCell id="wsGwZlvwTopMuStwnYJX-41" value="ignore" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="wsGwZlvwTopMuStwnYJX-18" target="wsGwZlvwTopMuStwnYJX-22">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="wsGwZlvwTopMuStwnYJX-18" value="After walking for what seems to be hours, you realize you are being followed. What do you do? Type &#39;Turn&#39; to turn around and look for your pursuer, or &#39;Ignore&#39; to keep walking" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="-190" y="112.5" width="180" height="145" as="geometry" />
+          <mxGeometry x="55" y="-75" width="180" height="145" as="geometry" />
         </mxCell>
         <mxCell id="wsGwZlvwTopMuStwnYJX-20" value="You are shot in the face with an arrow and die. GAME OVER" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="-160" y="10" width="120" height="60" as="geometry" />
+          <mxGeometry x="70" y="-240" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="wsGwZlvwTopMuStwnYJX-22" value="You are shot in the back of the head with an arrow and die. GAME OVER" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="-400" y="155" width="120" height="60" as="geometry" />
+          <mxGeometry x="-190" y="-32.5" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="wsGwZlvwTopMuStwnYJX-27" value="kick" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="wsGwZlvwTopMuStwnYJX-25" target="wsGwZlvwTopMuStwnYJX-28">
           <mxGeometry relative="1" as="geometry">
